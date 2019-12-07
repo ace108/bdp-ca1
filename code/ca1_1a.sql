@@ -15,3 +15,4 @@ where
     c.customerid = o.customerid 
 order by 
     o.orderdate   -- not necessary but just want to see if there is anything. interestingly no order for 2018-01-31
+limit 1
